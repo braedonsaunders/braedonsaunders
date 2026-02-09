@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Braedon 👋
 
-<!--
-**braedonsaunders/braedonsaunders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build developer tools that solve problems I've actually had.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔀 **[CodeFlow](https://github.com/braedonsaunders/codeflow)** — Paste any GitHub URL, get an interactive architecture map of the codebase. No install, no signup, runs entirely in your browser. One HTML file.
+
+🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action — scans every PR, scores your code 0-100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
+
+⚾ **[Homerun](https://github.com/braedonsaunders/homerun)** — Autonomous arbitrage scanner for Polymarket prediction markets. 8 strategies, 3 trading modes, real-time dashboard. Finds mathematically guaranteed profit windows.
+
+[![Twitter](https://img.shields.io/badge/-@braedonsaunders-000?style=flat&logo=x&logoColor=white)](https://x.com/braedonsaunders)
