@@ -14,5 +14,7 @@ I build developer tools that solve problems I've actually had.
 
 👆 **[OneShot](https://github.com/braedonsaunders/oneshot)** — OneShot is a fork of OpenCode extended with a full orchestration layer. Instead of a single chat session, OneShot decomposes your prompt into a Directed Acyclic Graph of tasks, spawns parallel agents for each node, isolates them in shadow git worktrees, validates their output, and merges them only when tests pass.
 
+🎶 **[OpenStudio](https://github.com/braedonsaunders/openstudio)** — Real-time collaborative music studio with sub-30ms latency. Jam with anyone, anywhere in your browser. 35+ DSP effects, AI stem separation, MIDI loops, and optional Rust native bridge for ASIO/CoreAudio. Built with Next.js, Supabase, and Cloudflare.
+
 
 [![Twitter](https://img.shields.io/badge/-@braedonsaunders-000?style=flat&logo=x&logoColor=white)](https://x.com/braedonsaunders)
