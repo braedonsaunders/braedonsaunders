@@ -1,20 +1,33 @@
 # Hey, I'm Braedon 👋
 
-I build developer tools that solve problems I've actually had.
+I build tools that solve problems I've actually had — then open-source them.
 
-### What I'm working on
+---
 
-🌌 **[Voidstrike](https://github.com/braedonsaunders/voidstrike)** — Multiplayer real-time strategy game running entirely in the browser. WebGPU graphics, serverless P2P networking via WebRTC/Nostr, deterministic lockstep simulation.
+### 🎯 Sales & Outbound
+
+🪨 **[Curb](https://github.com/braedonsaunders/curb)** — Build the website *before* you send the cold email. Curb finds local businesses with weak or missing sites, generates a tailored replacement, and sends the finished preview as your first touch. Most outreach sells possibility — Curb sells proof.
+
+🐟 **[Trawl](https://github.com/braedonsaunders/trawl)** — A local-first desktop command center for B2B prospecting. Discovers businesses via Google Maps, crawls their sites with Playwright + LLMs, scores lead fit, and drafts personalized outreach — all from one app on your machine. No SaaS sprawl, no spreadsheet graveyard.
+
+### 🛠 Dev Tools
 
 🔀 **[CodeFlow](https://github.com/braedonsaunders/codeflow)** — Paste any GitHub URL, get an interactive architecture map of the codebase. No install, no signup, runs entirely in your browser. One HTML file.
 
-🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action — scans every PR, scores your code 0-100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
+🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action — scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
 
-⚾ **[Homerun](https://github.com/braedonsaunders/homerun)** — Full fledged platform for autotrading on prediction markets. User Definable Python based strategies and data sources. Live and paper trading, full simulation, delightful UI.
+👆 **[OneShot](https://github.com/braedonsaunders/oneshot)** — Turn one prompt into a parallelized build. OneShot decomposes your task into a DAG, spawns isolated agents in shadow git worktrees, validates output, and merges only when tests pass.
 
-👆 **[OneShot](https://github.com/braedonsaunders/oneshot)** — OneShot is a fork of OpenCode extended with a full orchestration layer. Instead of a single chat session, OneShot decomposes your prompt into a Directed Acyclic Graph of tasks, spawns parallel agents for each node, isolates them in shadow git worktrees, validates their output, and merges them only when tests pass.
+### 📈 Trading
 
-🎶 **[OpenStudio](https://github.com/braedonsaunders/openstudio)** — Real-time collaborative music studio with sub-30ms latency. Jam with anyone, anywhere in your browser. 35+ DSP effects, AI stem separation, MIDI loops, and optional Rust native bridge for ASIO/CoreAudio. Built with Next.js, Supabase, and Cloudflare.
+⚾ **[Homerun](https://github.com/braedonsaunders/homerun)** — Full-fledged autotrading platform for prediction markets. Define Python strategies and data sources, run live or paper trades, backtest with full simulation. Delightful UI.
 
+### 🌌 Games & Creative
+
+🌌 **[Voidstrike](https://github.com/braedonsaunders/voidstrike)** — Multiplayer real-time strategy running entirely in the browser. WebGPU graphics, serverless P2P networking via WebRTC/Nostr, deterministic lockstep simulation.
+
+🎶 **[OpenStudio](https://github.com/braedonsaunders/openstudio)** — Real-time collaborative music studio with sub-30ms latency. Jam with anyone, anywhere in your browser. 35+ DSP effects, AI stem separation, MIDI loops, and optional Rust native bridge for ASIO/CoreAudio.
+
+---
 
 [![Twitter](https://img.shields.io/badge/-@braedonsaunders-000?style=flat&logo=x&logoColor=white)](https://x.com/braedonsaunders)
