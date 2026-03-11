@@ -16,11 +16,11 @@ I build tools that solve problems I've actually had — then open-source them.
 
 🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action — scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
 
-👆 **[OneShot](https://github.com/braedonsaunders/oneshot)** — Turn one prompt into a parallelized build. OneShot decomposes your task into a DAG, spawns isolated agents in shadow git worktrees, validates output, and merges only when tests pass.
-
 ### 📈 Trading
 
 ⚾ **[Homerun](https://github.com/braedonsaunders/homerun)** — Full-fledged autotrading platform for prediction markets. Define Python strategies and data sources, run live or paper trades, backtest with full simulation. Delightful UI.
+
+📊 **[Polymarket BTC Pulse Overlay](https://github.com/braedonsaunders/polymarket-btc-pulse-overlay)** — Read-only browser extension that adds live Binance BTC/USDT price, flow, and liquidity context directly into Polymarket BTC pages. No order automation, just faster market context.
 
 ### 🌌 Games & Creative
 
