@@ -6,15 +6,15 @@ I build tools that solve problems I've actually had — then open-source them.
 
 ### 🎯 Sales & Outbound
 
-🪨 **[Curb](https://github.com/braedonsaunders/curb)** — Build the website *before* you send the cold email. Curb finds local businesses with weak or missing sites, generates a tailored replacement, and sends the finished preview as your first touch. Most outreach sells possibility — Curb sells proof.
+🪨 **[Curb](https://github.com/braedonsaunders/curb)** — Build the website *before* you send the cold email. Curb finds local businesses with weak or missing sites, generates a tailored replacement, and sends the finished preview as your first touch. Most outreach sells possibility - Curb sells proof.
 
-🐟 **[Trawl](https://github.com/braedonsaunders/trawl)** — A local-first desktop command center for B2B prospecting. Discovers businesses via Google Maps, crawls their sites with Playwright + LLMs, scores lead fit, and drafts personalized outreach — all from one app on your machine. No SaaS sprawl, no spreadsheet graveyard.
+🐟 **[Trawl](https://github.com/braedonsaunders/trawl)** — A local-first desktop command center for B2B prospecting. Discovers businesses via Google Maps, crawls their sites with Playwright + LLMs, scores lead fit, and drafts personalized outreach - all from one app on your machine. No SaaS sprawl, no spreadsheet graveyard.
 
 ### 🛠 Dev Tools
 
 🔀 **[CodeFlow](https://github.com/braedonsaunders/codeflow)** — Paste any GitHub URL, get an interactive architecture map of the codebase. No install, no signup, runs entirely in your browser. One HTML file.
 
-🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action — scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
+🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action - scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
 
 ### 📈 Trading
 
