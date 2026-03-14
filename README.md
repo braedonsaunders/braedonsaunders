@@ -1,7 +1,4 @@
 # Hey, I'm Braedon 👋
-
-I build tools that solve problems I've actually had — then open-source them.
-
 ---
 
 ### 🎯 Sales & Outbound
