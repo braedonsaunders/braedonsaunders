@@ -1,5 +1,4 @@
 # Hey, I'm Braedon 👋
----
 
 ### 🎯 Sales & Outbound
 
