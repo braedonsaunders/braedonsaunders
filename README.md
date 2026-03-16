@@ -8,6 +8,8 @@
 
 ### 🛠 Dev Tools
 
+🖥️ **[Steward](https://github.com/braedonsaunders/steward)** — Steward is a self-hosted IT operations control plane for small network - local-first system with discovery, persistent state, graph-backed inventory, chat over live infrastructure context, policy-gated remediation, secure credential storage, device onboarding, widgets, automations, and operator access control.
+
 🔀 **[CodeFlow](https://github.com/braedonsaunders/codeflow)** — Paste any GitHub URL, get an interactive architecture map of the codebase. No install, no signup, runs entirely in your browser. One HTML file.
 
 🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action - scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
