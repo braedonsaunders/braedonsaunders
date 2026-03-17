@@ -12,6 +12,8 @@
 
 🔀 **[CodeFlow](https://github.com/braedonsaunders/codeflow)** — Paste any GitHub URL, get an interactive architecture map of the codebase. No install, no signup, runs entirely in your browser. One HTML file.
 
+🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action - scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
+
 ### 📈 Trading
 
 ⚾ **[Homerun](https://github.com/braedonsaunders/homerun)** — Full-fledged autotrading platform for prediction markets. Define Python strategies and data sources, run live or paper trades, backtest with full simulation. Delightful UI.
