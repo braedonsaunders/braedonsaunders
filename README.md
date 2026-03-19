@@ -12,6 +12,8 @@
 
 🔀 **[CodeFlow](https://github.com/braedonsaunders/codeflow)** — Paste any GitHub URL, get an interactive architecture map of the codebase. No install, no signup, runs entirely in your browser. One HTML file.
 
+✅ **[Greencheck](https://github.com/braedonsaunders/greencheck)** — Watches failed GitHub Actions runs, turns the logs into structured failures, asks Claude Code or Codex for a targeted fix, commits the patch, and waits for CI to run again.
+
 🧹 **[Sloppy](https://github.com/braedonsaunders/sloppy)** — AI code cleanup that doesn't stop after one pass. Free GitHub Action - scans every PR, scores your code 0–100, and optionally auto-fixes with Claude or Codex. No API key needed for scans.
 
 ### 📈 Trading
