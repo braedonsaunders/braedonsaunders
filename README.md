@@ -72,7 +72,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/steward">
-<img src="https://raw.githubusercontent.com/braedonsaunders/steward/main/steward.png" height="220" width="100%" alt="Steward" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/steward/main/steward-social.png" height="220" width="100%" alt="Steward" />
 </a>
 <p><strong>🖥️ Steward</strong> — Self-hosted IT ops control plane for small networks. Discovery, graph inventory, policy-gated remediation.<br/>
 <a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a></p>
