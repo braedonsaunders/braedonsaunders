@@ -79,7 +79,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/polymarket-btc-pulse-overlay">
-<img src="https://raw.githubusercontent.com/braedonsaunders/polymarket-btc-pulse-overlay/main/screenshot.png" height="220" width="100%" alt="BTC Pulse Overlay" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/polymarket-btc-pulse-overlay/main/btc-pulse-social.png" height="220" width="100%" alt="BTC Pulse Overlay" />
 </a>
 <p><strong>📊 BTC Pulse Overlay</strong> — Browser extension adding live Binance price, flow & liquidity context into Polymarket.<br/>
 <a href="https://github.com/braedonsaunders/polymarket-btc-pulse-overlay"><img src="https://img.shields.io/github/stars/braedonsaunders/polymarket-btc-pulse-overlay?style=flat&color=yellow" alt="Stars" /></a></p>
