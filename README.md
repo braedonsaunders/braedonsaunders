@@ -15,7 +15,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/homerun">
-<img src="https://raw.githubusercontent.com/braedonsaunders/homerun/main/screenshots/screenshot.png" height="180" width="100%" alt="Homerun" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/homerun/main/screenshots/homerun-social.png" height="180" width="100%" alt="Homerun" />
 </a>
 <p><strong>⚾ Homerun</strong> — Autonomous prediction market trading. 18 strategies, real-time dashboard, paper & live execution.<br/>
 <a href="https://github.com/braedonsaunders/homerun"><img src="https://img.shields.io/github/stars/braedonsaunders/homerun?style=flat&color=yellow" alt="Stars" /></a></p>
