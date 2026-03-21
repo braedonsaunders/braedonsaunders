@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/curb">
-<img src="https://raw.githubusercontent.com/braedonsaunders/curb/main/curb-readme.png" height="220" width="100%" alt="Curb" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/curb/main/curb-social.png" height="220" width="100%" alt="Curb" />
 </a>
 <p><strong>🪨 Curb</strong> — Build the website <em>before</em> you send the cold email. Outreach that sells proof, not promises.<br/>
 <a href="https://github.com/braedonsaunders/curb"><img src="https://img.shields.io/github/stars/braedonsaunders/curb?style=flat&color=yellow" alt="Stars" /></a></p>
