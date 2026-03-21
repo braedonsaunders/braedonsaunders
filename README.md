@@ -63,7 +63,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/openstudio">
-<img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/readme.png" height="220" width="100%" alt="OpenStudio" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/openstudio-social.png" height="220" width="100%" alt="OpenStudio" />
 </a>
 <p><strong>🎶 OpenStudio</strong> — Real-time collaborative music studio. Sub-30ms latency, 35+ effects, AI stem separation.<br/>
 <a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a></p>
