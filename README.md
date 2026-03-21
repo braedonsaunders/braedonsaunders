@@ -47,7 +47,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/greencheck">
-<img src="https://raw.githubusercontent.com/braedonsaunders/greencheck/main/logo-social.png" height="220" width="100%" alt="Greencheck" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/greencheck/main/greencheck-social.png" height="220" width="100%" alt="Greencheck" />
 </a>
 <p><strong>✅ Greencheck</strong> — Failed CI → AI reads the logs → commits the fix → waits for green. Fully autonomous.<br/>
 <a href="https://github.com/braedonsaunders/greencheck"><img src="https://img.shields.io/github/stars/braedonsaunders/greencheck?style=flat&color=yellow" alt="Stars" /></a></p>
