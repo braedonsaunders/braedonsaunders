@@ -8,7 +8,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/codeflow">
-<img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="180" width="100%" alt="CodeFlow" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" alt="CodeFlow" />
 </a>
 <p><strong>⚡ CodeFlow</strong> — Paste a GitHub URL, get an interactive architecture map. One HTML file. No install.<br/>
 <a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a> <a href="https://codeflow-five.vercel.app/">Try it live →</a></p>
