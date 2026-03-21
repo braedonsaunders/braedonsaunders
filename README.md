@@ -89,14 +89,4 @@
 
 ---
 
-### 💡 Philosophy
-
-I build things that run on **your** hardware. No SaaS dashboards. No monthly fees. No "we updated our privacy policy" emails.
-
-If a tool needs the internet to work, it better be because the internet *is* the feature.
-
----
-
-`TypeScript` `Python` `React` `Next.js` `SuiteScript` `Playwright` `WebGPU` `WebRTC` `SQLite` `Docker`
-
-<sub>If you use something I built, star it — that's how other people find it.</sub>
+<sub>If you use something I built, consider giving it a star - that's how other people find it.</sub>
