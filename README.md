@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/sloppy">
-<img src="https://raw.githubusercontent.com/braedonsaunders/sloppy/main/sloppy-logo.png" height="220" width="100%" alt="Sloppy" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/sloppy/main/sloppy-social.png" height="220" width="100%" alt="Sloppy" />
 </a>
 <p><strong>🧹 Sloppy</strong> — Free GitHub Action. Scans every PR, scores code 0–100, auto-fixes with Claude or Codex. No API key needed.<br/>
 <a href="https://github.com/braedonsaunders/sloppy"><img src="https://img.shields.io/github/stars/braedonsaunders/sloppy?style=flat&color=yellow" alt="Stars" /></a></p>
