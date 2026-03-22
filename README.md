@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="CodeFlow" />
 </a>
 <b>⚡ CodeFlow</b> — Interactive codebase architecture maps. One HTML file.<br/>
-<a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a> <a href="https://codeflow-five.vercel.app/">Try it live →</a>
+<a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a> <a href="https://codeflow-five.vercel.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 <td width="50%">
 <a href="https://github.com/braedonsaunders/homerun">
@@ -27,7 +27,7 @@
 <img src="https://raw.githubusercontent.com/braedonsaunders/voidstrike/main/docs/voidstrike-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Voidstrike" />
 </a>
 <b>🌌 Voidstrike</b> — Browser-native multiplayer RTS. WebGPU + WebRTC + deterministic lockstep.<br/>
-<a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a>
+<a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 <td width="50%">
 <a href="https://github.com/braedonsaunders/commandarr">
@@ -50,7 +50,7 @@
 <img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/openstudio-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
 </a>
 <b>🎶 OpenStudio</b> — Collaborative music studio. Sub-30ms latency, 35+ effects, AI stems.<br/>
-<a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a>
+<a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 </tr>
 <tr>
