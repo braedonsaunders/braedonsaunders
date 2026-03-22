@@ -85,6 +85,16 @@
 <a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/braedonsaunders/commandarr">
+<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
+</a>
+<b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
+<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
