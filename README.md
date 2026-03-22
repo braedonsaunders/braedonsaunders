@@ -30,11 +30,11 @@
 <a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 <td width="50%">
-<a href="https://github.com/braedonsaunders/polymarket-btc-pulse-overlay">
-<img src="https://raw.githubusercontent.com/braedonsaunders/polymarket-btc-pulse-overlay/main/btc-pulse-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="BTC Pulse Overlay" />
+<a href="https://github.com/braedonsaunders/commandarr">
+<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
 </a>
-<b>📊 BTC Pulse Overlay</b> — Live Binance price, flow & liquidity overlay for Polymarket.<br/>
-<a href="https://github.com/braedonsaunders/polymarket-btc-pulse-overlay"><img src="https://img.shields.io/github/stars/braedonsaunders/polymarket-btc-pulse-overlay?style=flat&color=yellow" alt="Stars" /></a>
+<b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
+<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
 <tr>
@@ -85,17 +85,13 @@
 <a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/braedonsaunders/commandarr">
-<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
-</a>
-<b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
-<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%"></td>
-</tr>
 </table>
+
+---
+
+**Also built:**
+
+- 📊 [**BTC Pulse Overlay**](https://github.com/braedonsaunders/polymarket-btc-pulse-overlay) — Live Binance price, order flow & liquidity overlay for Polymarket BTC markets.
 
 ---
 
