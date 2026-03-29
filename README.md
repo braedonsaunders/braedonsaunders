@@ -39,6 +39,22 @@
 </tr>
 <tr>
 <td width="50%">
+<a href="https://github.com/braedonsaunders/steward">
+<img src="https://raw.githubusercontent.com/braedonsaunders/steward/main/steward-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Steward" />
+</a>
+<b>🖥️ Steward</b> — Self-hosted IT ops control plane. Discovery, graph inventory, remediation.<br/>
+<a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/braedonsaunders/bidwright">
+<img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bidwright" />
+</a>
+<b>🏗️ Bidwright</b> — AI-native construction estimating. Intake → takeoff → pricing → branded quote PDF.<br/>
+<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <a href="https://github.com/braedonsaunders/trawl">
 <img src="https://raw.githubusercontent.com/braedonsaunders/trawl/main/trawl-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Trawl" />
 </a>
@@ -71,27 +87,32 @@
 </tr>
 <tr>
 <td width="50%">
+<a href="https://github.com/braedonsaunders/ember">
+<img src="https://raw.githubusercontent.com/braedonsaunders/ember/main/ember-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Ember" />
+</a>
+<b>🔥 Ember</b> — Autonomous social presence engine. Community-voiced Reddit & X engagement on autopilot.<br/>
+<a href="https://github.com/braedonsaunders/ember"><img src="https://img.shields.io/github/stars/braedonsaunders/ember?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+<td width="50%">
 <a href="https://github.com/braedonsaunders/greencheck">
 <img src="https://raw.githubusercontent.com/braedonsaunders/greencheck/main/greencheck-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Greencheck" />
 </a>
 <b>✅ Greencheck</b> — Failed CI → AI fix → commit → wait for green. Fully autonomous.<br/>
 <a href="https://github.com/braedonsaunders/greencheck"><img src="https://img.shields.io/github/stars/braedonsaunders/greencheck?style=flat&color=yellow" alt="Stars" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%">
-<a href="https://github.com/braedonsaunders/steward">
-<img src="https://raw.githubusercontent.com/braedonsaunders/steward/main/steward-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Steward" />
+<a href="https://github.com/braedonsaunders/polymarket-btc-pulse-overlay">
+<img src="https://raw.githubusercontent.com/braedonsaunders/polymarket-btc-pulse-overlay/main/btc-pulse-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="BTC Pulse Overlay" />
 </a>
-<b>🖥️ Steward</b> — Self-hosted IT ops control plane. Discovery, graph inventory, remediation.<br/>
-<a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a>
+<b>📊 BTC Pulse Overlay</b> — Live Binance price, order flow & liquidity overlay for Polymarket BTC markets.<br/>
+<a href="https://github.com/braedonsaunders/polymarket-btc-pulse-overlay"><img src="https://img.shields.io/github/stars/braedonsaunders/polymarket-btc-pulse-overlay?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
-
----
-
-**Also built:**
-
-- 📊 [**BTC Pulse Overlay**](https://github.com/braedonsaunders/polymarket-btc-pulse-overlay) — Live Binance price, order flow & liquidity overlay for Polymarket BTC markets.
 
 ---
 
