@@ -106,9 +106,8 @@
 ---
 
 ### Other Projects
-
-- **com.flux.capture**([https://github.com/braedonsaunders/project-name](https://github.com/braedonsaunders/com.flux.capture)) — Open source NetSuite document capture SuiteApp with custom fields, form XML, and transaction field support.
-
+- [**com.flux.capture**](https://github.com/braedonsaunders/com.flux.capture) — Open source NetSuite document capture SuiteApp with custom fields, form XML, and transaction field support.
+  
 ---
 
 <sub>If you use something I built, consider giving it a star — that's how other people find it.</sub>
