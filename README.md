@@ -30,11 +30,11 @@
 <a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 <td width="50%">
-<a href="https://github.com/braedonsaunders/commandarr">
-<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
+<a href="https://github.com/braedonsaunders/bidwright">
+<img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bidwright" />
 </a>
-<b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
-<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
+<b>🏗️ Bidwright</b> — AI-native construction estimating. Intake → takeoff → pricing → branded quote PDF.<br/>
+<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
 <tr>
@@ -46,11 +46,11 @@
 <a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 <td width="50%">
-<a href="https://github.com/braedonsaunders/bidwright">
-<img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bidwright" />
+<a href="https://github.com/braedonsaunders/commandarr">
+<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
 </a>
-<b>🏗️ Bidwright</b> — AI-native construction estimating. Intake → takeoff → pricing → branded quote PDF.<br/>
-<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a>
+<b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
+<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
 <tr>
