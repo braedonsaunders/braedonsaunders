@@ -107,6 +107,7 @@
 
 ### Other Projects
 - [**com.flux.capture**](https://github.com/braedonsaunders/com.flux.capture) — Open source NetSuite document capture SuiteApp with custom fields, form XML, and transaction field support.
+- [**vcf40-netsuite-fi-parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — NetSuite Financial Institution Parser plug-in for Visa Commercial Format 4.0 corporate card files.
 - [**ontariocamps.app**](https://github.com/braedonsaunders/ontariocamps.app) — Search for campsites in Ontario, Canada across provincial parks, federal parks, and conservation authorities.
 ---
 
