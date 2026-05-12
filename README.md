@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bidwright" />
 </a>
 <b>🏗️ Bidwright</b> — AI-native construction estimating. Intake → takeoff → pricing → branded quote PDF.<br/>
-<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a>
+<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a> <a href="https://bidwright.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 </tr>
 <tr>
