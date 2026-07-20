@@ -46,11 +46,11 @@
 <a href="https://github.com/braedonsaunders/beaconhs"><img src="https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 <td width="50%">
-<a href="https://github.com/braedonsaunders/steward">
-<img src="https://raw.githubusercontent.com/braedonsaunders/steward/main/steward-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Steward" />
+<a href="https://github.com/braedonsaunders/appkit">
+<img src="https://raw.githubusercontent.com/braedonsaunders/appkit/main/.github/assets/appkit-social-preview.jpg" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="AppKit" />
 </a>
-<b>🖥️ Steward</b> — Self-hosted IT ops control plane. Discovery, graph inventory, remediation.<br/>
-<a href="https://github.com/braedonsaunders/steward"><img src="https://img.shields.io/github/stars/braedonsaunders/steward?style=flat&color=yellow" alt="Stars" /></a>
+<b>🧰 AppKit</b> — Modular production foundation for modern apps: design system, multi-tenancy, forms, analytics, workflows, integrations, documents, and more.<br/>
+<a href="https://github.com/braedonsaunders/appkit"><img src="https://img.shields.io/github/stars/braedonsaunders/appkit?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
 <tr>
@@ -106,6 +106,7 @@
 ---
 
 ### Other Projects
+- [**Steward**](https://github.com/braedonsaunders/steward) — Self-hosted IT ops control plane. Discovery, graph inventory, remediation.
 - [**com.flux.gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Open source financial analytics and AI advisor SuiteApp for NetSuite.
 - [**com.flux.capture**](https://github.com/braedonsaunders/com.flux.capture) — Open source NetSuite document capture SuiteApp with custom fields, form XML, and transaction field support.
 - [**vcf40-netsuite-fi-parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — NetSuite Financial Institution Parser plug-in for Visa Commercial Format 4.0 corporate card files.
