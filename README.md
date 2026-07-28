@@ -6,14 +6,14 @@
 
 <table cellspacing="0" cellpadding="4">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/codeflow">
 <img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="CodeFlow" />
 </a>
 <b>⚡ CodeFlow</b> — Interactive codebase architecture maps. One HTML file.<br/>
 <a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a> <a href="https://codeflow-five.vercel.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/homerun">
 <img src="https://raw.githubusercontent.com/braedonsaunders/homerun/main/screenshots/homerun-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Homerun" />
 </a>
@@ -22,14 +22,14 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/braedonsaunders/voidstrike">
-<img src="https://raw.githubusercontent.com/braedonsaunders/voidstrike/main/docs/voidstrike-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Voidstrike" />
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/openbooks">
+<img src="https://raw.githubusercontent.com/braedonsaunders/openbooks/main/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
 </a>
-<b>🌌 Voidstrike</b> — Browser-native multiplayer RTS. WebGPU + WebRTC + deterministic lockstep.<br/>
-<a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
+<b>📚 OpenBooks</b> — Open-source ERP built on a double-entry general-ledger kernel. Extensible, self-hosted, and vendor-neutral.<br/>
+<a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/bidwright">
 <img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bidwright" />
 </a>
@@ -38,62 +38,62 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/beaconhs">
 <img src="https://raw.githubusercontent.com/braedonsaunders/beaconhs/main/.github/assets/beaconhs-banner.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="beaconHS" />
 </a>
 <b>🦺 beaconHS</b> — Open-source HSE platform for industrial construction. Incidents, inspections, training, permits + app builder.<br/>
 <a href="https://github.com/braedonsaunders/beaconhs"><img src="https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/voidstrike">
+<img src="https://raw.githubusercontent.com/braedonsaunders/voidstrike/main/docs/voidstrike-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Voidstrike" />
+</a>
+<b>🌌 Voidstrike</b> — Browser-native multiplayer RTS. WebGPU + WebRTC + deterministic lockstep.<br/>
+<a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/appkit">
 <img src="https://raw.githubusercontent.com/braedonsaunders/appkit/main/.github/assets/appkit-social-preview.jpg" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="AppKit" />
 </a>
 <b>🧰 AppKit</b> — Modular production foundation for modern apps: design system, multi-tenancy, forms, analytics, workflows, integrations, documents, and more.<br/>
 <a href="https://github.com/braedonsaunders/appkit"><img src="https://img.shields.io/github/stars/braedonsaunders/appkit?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/commandarr">
 <img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
 </a>
 <b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
 <a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/trawl">
 <img src="https://raw.githubusercontent.com/braedonsaunders/trawl/main/trawl-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Trawl" />
 </a>
 <b>🐟 Trawl</b> — B2B lead intelligence. Maps → Playwright → LLM scoring → outreach. Local-first.<br/>
 <a href="https://github.com/braedonsaunders/trawl"><img src="https://img.shields.io/github/stars/braedonsaunders/trawl?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/openstudio">
 <img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/openstudio-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
 </a>
 <b>🎶 OpenStudio</b> — Collaborative music studio. Sub-30ms latency, 35+ effects, AI stems.<br/>
 <a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/curb">
 <img src="https://raw.githubusercontent.com/braedonsaunders/curb/main/curb-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Curb" />
 </a>
 <b>🪨 Curb</b> — Builds the website <em>before</em> you send the cold email. Proof, not promises.<br/>
 <a href="https://github.com/braedonsaunders/curb"><img src="https://img.shields.io/github/stars/braedonsaunders/curb?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/braedonsaunders/sloppy">
-<img src="https://raw.githubusercontent.com/braedonsaunders/sloppy/main/sloppy-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Sloppy" />
-</a>
-<b>🧹 Sloppy</b> — Free GitHub Action. Scores PRs 0–100, auto-fixes with Claude or Codex.<br/>
-<a href="https://github.com/braedonsaunders/sloppy"><img src="https://img.shields.io/github/stars/braedonsaunders/sloppy?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%">
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/greencheck">
 <img src="https://raw.githubusercontent.com/braedonsaunders/greencheck/main/greencheck-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Greencheck" />
 </a>
@@ -106,6 +106,7 @@
 ---
 
 ### Other Projects
+- [**Sloppy**](https://github.com/braedonsaunders/sloppy) — Free GitHub Action. Scores PRs 0–100, auto-fixes with Claude or Codex.
 - [**Steward**](https://github.com/braedonsaunders/steward) — Self-hosted IT ops control plane. Discovery, graph inventory, remediation.
 - [**com.flux.gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Open source financial analytics and AI advisor SuiteApp for NetSuite.
 - [**com.flux.capture**](https://github.com/braedonsaunders/com.flux.capture) — Open source NetSuite document capture SuiteApp with custom fields, form XML, and transaction field support.
