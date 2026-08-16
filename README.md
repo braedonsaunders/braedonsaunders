@@ -33,7 +33,7 @@ Same author. Same self-host posture. Each product is still its own install today
 <a href="https://github.com/braedonsaunders/openbooks">
 <img src="https://raw.githubusercontent.com/braedonsaunders/openbooks/main/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
 </a>
-<b>OpenBooks</b> — Alpha, self-hosted, AGPL accounting kernel. PostgreSQL-enforced double-entry. Construction billing is the deepest vertical. Parallel books only — do not cut over.<br/>
+<b>OpenBooks</b> — Alpha, self-hosted, AGPL accounting kernel. PostgreSQL-enforced double-entry. Parallel books only — do not cut over.<br/>
 <a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a>
 <a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
 </td>
