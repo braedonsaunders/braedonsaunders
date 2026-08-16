@@ -2,117 +2,85 @@
 [![Stars](https://img.shields.io/github/stars/braedonsaunders?style=flat&label=Total%20Stars&color=black)](https://github.com/braedonsaunders)
 [![Twitter](https://img.shields.io/badge/-@braedonsaunders-000?style=flat&logo=x&logoColor=white)](https://x.com/braedonsaunders)
 
+I build an open-source suite for project-based companies: **books, safety, and estimating**. I also made [Codeflow](https://github.com/braedonsaunders/codeflow).
+
+Same author. Same self-host posture. Each product is still its own install today — not one login, not one database.
+
 ---
+
+## Used by developers
 
 <table cellspacing="0" cellpadding="4">
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 <a href="https://github.com/braedonsaunders/codeflow">
 <img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="CodeFlow" />
 </a>
-<b>⚡ CodeFlow</b> — Interactive codebase architecture maps. One HTML file.<br/>
-<a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a> <a href="https://codeflow-five.vercel.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/homerun">
-<img src="https://raw.githubusercontent.com/braedonsaunders/homerun/main/screenshots/homerun-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Homerun" />
-</a>
-<b>⚾ Homerun</b> — Prediction market trading OS. 25+ strategies, backtesting, paper & live.<br/>
-<a href="https://github.com/braedonsaunders/homerun"><img src="https://img.shields.io/github/stars/braedonsaunders/homerun?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/openbooks">
-<img src="https://raw.githubusercontent.com/braedonsaunders/openbooks/main/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
-</a>
-<b>📚 OpenBooks</b> — Open-source ERP built on a double-entry general-ledger kernel. Extensible, self-hosted, and vendor-neutral.<br/>
-<a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/bidwright">
-<img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bidwright" />
-</a>
-<b>🏗️ Bidwright</b> — AI-native construction estimating. Intake → takeoff → pricing → branded quote PDF.<br/>
-<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a> <a href="https://bidwright.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/beaconhs">
-<img src="https://raw.githubusercontent.com/braedonsaunders/beaconhs/main/.github/assets/beaconhs-banner.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="beaconHS" />
-</a>
-<b>🦺 beaconHS</b> — Open-source HSE platform for industrial construction. Incidents, inspections, training, permits + app builder.<br/>
-<a href="https://github.com/braedonsaunders/beaconhs"><img src="https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/voidstrike">
-<img src="https://raw.githubusercontent.com/braedonsaunders/voidstrike/main/docs/voidstrike-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Voidstrike" />
-</a>
-<b>🌌 Voidstrike</b> — Browser-native multiplayer RTS. WebGPU + WebRTC + deterministic lockstep.<br/>
-<a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/appkit">
-<img src="https://raw.githubusercontent.com/braedonsaunders/appkit/main/.github/assets/appkit-social-preview.jpg" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="AppKit" />
-</a>
-<b>🧰 AppKit</b> — Modular production foundation for modern apps: design system, multi-tenancy, forms, analytics, workflows, integrations, documents, and more.<br/>
-<a href="https://github.com/braedonsaunders/appkit"><img src="https://img.shields.io/github/stars/braedonsaunders/appkit?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/commandarr">
-<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
-</a>
-<b>🤖 Commandarr</b> — AI brain for your media stack. LLM agent that monitors, controls & automates Plex/*arr.<br/>
-<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/trawl">
-<img src="https://raw.githubusercontent.com/braedonsaunders/trawl/main/trawl-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Trawl" />
-</a>
-<b>🐟 Trawl</b> — B2B lead intelligence. Maps → Playwright → LLM scoring → outreach. Local-first.<br/>
-<a href="https://github.com/braedonsaunders/trawl"><img src="https://img.shields.io/github/stars/braedonsaunders/trawl?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/openstudio">
-<img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/openstudio-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
-</a>
-<b>🎶 OpenStudio</b> — Collaborative music studio. Sub-30ms latency, 35+ effects, AI stems.<br/>
-<a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/curb">
-<img src="https://raw.githubusercontent.com/braedonsaunders/curb/main/curb-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Curb" />
-</a>
-<b>🪨 Curb</b> — Builds the website <em>before</em> you send the cold email. Proof, not promises.<br/>
-<a href="https://github.com/braedonsaunders/curb"><img src="https://img.shields.io/github/stars/braedonsaunders/curb?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/greencheck">
-<img src="https://raw.githubusercontent.com/braedonsaunders/greencheck/main/greencheck-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Greencheck" />
-</a>
-<b>✅ Greencheck</b> — Failed CI → AI fix → commit → wait for green. Fully autonomous.<br/>
-<a href="https://github.com/braedonsaunders/greencheck"><img src="https://img.shields.io/github/stars/braedonsaunders/greencheck?style=flat&color=yellow" alt="Stars" /></a>
+<b>Codeflow</b> — Paste a GitHub URL, get an interactive architecture map. One HTML file, runs in the browser.<br/>
+<a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a>
+<a href="https://codeflow-five.vercel.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 </tr>
 </table>
 
 ---
 
-### Other Projects
-- [**Sloppy**](https://github.com/braedonsaunders/sloppy) — Free GitHub Action. Scores PRs 0–100, auto-fixes with Claude or Codex.
-- [**Steward**](https://github.com/braedonsaunders/steward) — Self-hosted IT ops control plane. Discovery, graph inventory, remediation.
-- [**com.flux.gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Open source financial analytics and AI advisor SuiteApp for NetSuite.
-- [**com.flux.capture**](https://github.com/braedonsaunders/com.flux.capture) — Open source NetSuite document capture SuiteApp with custom fields, form XML, and transaction field support.
-- [**vcf40-netsuite-fi-parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — NetSuite Financial Institution Parser plug-in for Visa Commercial Format 4.0 corporate card files.
-- [**ontariocamps.app**](https://github.com/braedonsaunders/ontariocamps.app) — Search for campsites in Ontario, Canada across provincial parks, federal parks, and conservation authorities.
-- [**polymarket-btc-pulse-overlay**](https://github.com/braedonsaunders/polymarket-btc-pulse-overlay) — Live Binance price, order flow & liquidity overlay for Polymarket BTC markets.
+## The suite
+
+<table cellspacing="0" cellpadding="4">
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/openbooks">
+<img src="https://raw.githubusercontent.com/braedonsaunders/openbooks/main/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
+</a>
+<b>OpenBooks</b> — Alpha, self-hosted, AGPL accounting kernel. PostgreSQL-enforced double-entry. Construction billing is the deepest vertical. Parallel books only — do not cut over.<br/>
+<a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a>
+<a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/beaconhs">
+<img src="https://raw.githubusercontent.com/braedonsaunders/beaconhs/main/.github/assets/beaconhs-banner.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="BeaconHS" />
+</a>
+<b>BeaconHS</b> — Open-source HSE for industrial construction. Incidents, inspections, training, permits, and a form engine that can model the rest of a safety program. Pre-launch.<br/>
+<a href="https://github.com/braedonsaunders/beaconhs"><img src="https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/bidwright">
+<img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="BidWright" />
+</a>
+<b>BidWright</b> — Construction estimating: intake, takeoff, ratebook, quote. Dogfooded. Public demo has AI / takeoff / PDF disabled.<br/>
+<a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a>
+<a href="https://demo.bidwright.app"><img src="https://img.shields.io/badge/Demo-limited-black?style=flat" alt="Limited demo" /></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/appkit">
+<img src="https://raw.githubusercontent.com/braedonsaunders/appkit/main/.github/assets/appkit-social-preview.jpg" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="AppKit" />
+</a>
+<b>AppKit</b> — Extracted kernel (design system, tenancy, forms, jobs). Internal foundation. Packages are not on npm yet.<br/>
+<a href="https://github.com/braedonsaunders/appkit"><img src="https://img.shields.io/github/stars/braedonsaunders/appkit?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+</tr>
+</table>
+
 ---
 
-<sub>If you use something I built, consider giving it a star — that's how other people find it.</sub>
+## NetSuite
+
+Work I actually ship for finance teams:
+
+- [**Flux Gantry**](https://github.com/braedonsaunders/com.flux.gantry) — financial analytics and AI advisor SuiteApp
+- [**Flux Capture**](https://github.com/braedonsaunders/com.flux.capture) — document capture SuiteApp
+- [**VCF 4.0 FI parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — Visa Commercial Format 4.0 bank-file plug-in
+
+---
+
+## Also
+
+- [**Homerun**](https://github.com/braedonsaunders/homerun) — live Polymarket / Kalshi trading OS
+- [**Sloppy**](https://github.com/braedonsaunders/sloppy) — GitHub Action that scores PRs and can auto-fix them
+
+Everything else is an experiment. I am not growing those.
+
+<sub>If you use something I built, star it — that is how other people find it.</sub>
