@@ -69,21 +69,12 @@
 <a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/commandarr">
-<img src="https://raw.githubusercontent.com/braedonsaunders/commandarr/main/commandarr-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Commandarr" />
-</a>
-<b>Commandarr</b> — LLM agent for the media stack. Monitors and automates Plex and *arr.<br/>
-<a href="https://github.com/braedonsaunders/commandarr"><img src="https://img.shields.io/github/stars/braedonsaunders/commandarr?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top"></td>
-</tr>
 </table>
 
 ---
 
 ### Other projects
+- [**Commandarr**](https://github.com/braedonsaunders/commandarr) — LLM agent for the media stack. Monitors and automates Plex and *arr.
 - [**Sloppy**](https://github.com/braedonsaunders/sloppy) — GitHub Action. Scores PRs 0–100, auto-fixes with Claude or Codex.
 - [**Flux Gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Financial analytics and AI advisor SuiteApp for NetSuite.
 - [**Flux Capture**](https://github.com/braedonsaunders/com.flux.capture) — NetSuite document capture SuiteApp.
