@@ -80,3 +80,4 @@
 - [**Flux Capture**](https://github.com/braedonsaunders/com.flux.capture) — NetSuite document capture SuiteApp.
 - [**VCF 4.0 FI parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — Visa Commercial Format 4.0 bank-file plug-in for NetSuite.
 - [**OpenStudio**](https://github.com/braedonsaunders/openstudio) — Collaborative music studio. Sub-30ms latency, 35+ effects, AI stems.
+- [**BB Goal**](https://github.com/braedonsaunders/bb-plugin-goal) — Codex-style durable Goals for Cursor, OpenCode, Claude Code, and Pi in BB.
