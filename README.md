@@ -81,3 +81,5 @@
 - [**VCF 4.0 FI parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — Visa Commercial Format 4.0 bank-file plug-in for NetSuite.
 - [**OpenStudio**](https://github.com/braedonsaunders/openstudio) — Collaborative music studio. Sub-30ms latency, 35+ effects, AI stems.
 - [**Ultragoal**](https://github.com/braedonsaunders/bb-plugin-ultragoal) — Codex-style durable Goals for Cursor, OpenCode, Claude Code, and Pi in BB.
+- [**Usage**](https://github.com/braedonsaunders/bb-plugin-usage) — BB plugin. Remaining plan quota, reset windows, and token burn across every provider.
+- [**Thread Provider Icons**](https://github.com/braedonsaunders/bb-plugin-thread-provider-icons) — BB plugin. Each thread's provider logo before its title in the sidebar.
