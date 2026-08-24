@@ -31,7 +31,7 @@
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/openbooks">
-<img src="https://raw.githubusercontent.com/braedonsaunders/openbooks/main/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
+<img src="https://github.com/braedonsaunders/openbooks/blob/main/web/public/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
 </a>
 <b>OpenBooks</b> — Open-source ERP on a PostgreSQL-enforced double-entry ledger. Self-hosted, AGPL.<br/>
 <a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a> <a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
