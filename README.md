@@ -77,7 +77,13 @@
 <b>parlour</b> — Deterministic TypeScript card-game engine. Blitz, Wild, P2P friend rooms, no backend.<br/>
 <a href="https://github.com/braedonsaunders/parlour"><img src="https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat&color=yellow" alt="Stars" /></a> <a href="https://parlour-liart.vercel.app"><img src="https://img.shields.io/badge/Play%20it%20live-→-black?style=flat" alt="Play it live" /></a>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/openstudio">
+<img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
+</a>
+<b>OpenStudio</b> — Collaborative music studio in the browser. Sub-30ms latency, 35+ effects, AI stems.<br/>
+<a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
+</td>
 </tr>
 </table>
 
@@ -89,7 +95,6 @@
 - [**Flux Gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Financial analytics and AI advisor SuiteApp for NetSuite.
 - [**Flux Capture**](https://github.com/braedonsaunders/com.flux.capture) — NetSuite document capture SuiteApp.
 - [**VCF 4.0 FI parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — Visa Commercial Format 4.0 bank-file plug-in for NetSuite.
-- [**OpenStudio**](https://github.com/braedonsaunders/openstudio) — Collaborative music studio. Sub-30ms latency, 35+ effects, AI stems.
 - [**Ultragoal**](https://github.com/braedonsaunders/bb-plugin-ultragoal) — Codex-style durable Goals for Cursor, OpenCode, Claude Code, and Pi in BB.
 - [**Usage**](https://github.com/braedonsaunders/bb-plugin-usage) — BB plugin. Remaining plan quota, reset windows, and token burn across every provider.
 - [**Thread Provider Icons**](https://github.com/braedonsaunders/bb-plugin-thread-provider-icons) — BB plugin. Each thread's provider logo before its title in the sidebar.
