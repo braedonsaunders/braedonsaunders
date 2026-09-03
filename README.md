@@ -7,12 +7,21 @@
 <table cellspacing="0" cellpadding="4">
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/braedonsaunders/lucid">
+<img src="https://raw.githubusercontent.com/braedonsaunders/lucid/main/.github/assets/github-social-preview.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Lucid" />
+</a>
+<b>Lucid</b> — Sharper browser video on Apple silicon. In-page upscale, no separate player.<br/>
+<a href="https://github.com/braedonsaunders/lucid"><img src="https://img.shields.io/github/stars/braedonsaunders/lucid?style=flat&color=yellow" alt="Stars" /></a>
+</td>
+<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/bunkhouse">
 <img src="https://raw.githubusercontent.com/braedonsaunders/bunkhouse/main/.github/assets/github-social-preview.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bunkhouse" />
 </a>
 <b>Bunkhouse</b> — Open-source AI employees for main-street business. Multitenant, company inbox, org chart.<br/>
 <a href="https://github.com/braedonsaunders/bunkhouse"><img src="https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=flat&color=yellow" alt="Stars" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/codeflow">
 <img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="CodeFlow" />
@@ -20,8 +29,6 @@
 <b>Codeflow</b> — Interactive codebase architecture maps. One HTML file, runs in the browser.<br/>
 <a href="https://github.com/braedonsaunders/codeflow"><img src="https://img.shields.io/github/stars/braedonsaunders/codeflow?style=flat&color=yellow" alt="Stars" /></a> <a href="https://codeflow-five.vercel.app/"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/homerun">
 <img src="https://raw.githubusercontent.com/braedonsaunders/homerun/main/screenshots/homerun-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Homerun" />
@@ -29,6 +36,8 @@
 <b>Homerun</b> — Prediction market trading OS. 25+ strategies, backtesting, paper and live.<br/>
 <a href="https://github.com/braedonsaunders/homerun"><img src="https://img.shields.io/github/stars/braedonsaunders/homerun?style=flat&color=yellow" alt="Stars" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/openbooks">
 <img src="https://github.com/braedonsaunders/openbooks/blob/main/web/public/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
@@ -36,8 +45,6 @@
 <b>OpenBooks</b> — Open-source ERP on a PostgreSQL-enforced double-entry ledger. Self-hosted, AGPL.<br/>
 <a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a> <a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/bidwright">
 <img src="https://raw.githubusercontent.com/braedonsaunders/bidwright/main/bidwright-readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="BidWright" />
@@ -45,6 +52,8 @@
 <b>BidWright</b> — Construction estimating. Intake, takeoff, ratebook, branded quote PDF.<br/>
 <a href="https://github.com/braedonsaunders/bidwright"><img src="https://img.shields.io/github/stars/braedonsaunders/bidwright?style=flat&color=yellow" alt="Stars" /></a> <a href="https://demo.bidwright.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/beaconhs">
 <img src="https://raw.githubusercontent.com/braedonsaunders/beaconhs/main/.github/assets/beaconhs-banner.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="BeaconHS" />
@@ -52,8 +61,6 @@
 <b>BeaconHS</b> — Open-source HSE for industrial construction. Incidents, inspections, training, permits, form engine.<br/>
 <a href="https://github.com/braedonsaunders/beaconhs"><img src="https://img.shields.io/github/stars/braedonsaunders/beaconhs?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/appkit">
 <img src="https://raw.githubusercontent.com/braedonsaunders/appkit/main/.github/assets/appkit-social-preview.jpg" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="AppKit" />
@@ -61,6 +68,8 @@
 <b>AppKit</b> — Design system, tenancy, forms, jobs, workflows. Shared foundation for the other apps.<br/>
 <a href="https://github.com/braedonsaunders/appkit"><img src="https://img.shields.io/github/stars/braedonsaunders/appkit?style=flat&color=yellow" alt="Stars" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/voidstrike">
 <img src="https://raw.githubusercontent.com/braedonsaunders/voidstrike/main/docs/voidstrike-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Voidstrike" />
@@ -68,21 +77,23 @@
 <b>Voidstrike</b> — Browser-native multiplayer RTS. WebGPU, WebRTC, deterministic lockstep.<br/>
 <a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/parlour">
 <img src="https://raw.githubusercontent.com/braedonsaunders/parlour/main/docs/parlour-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="parlour" />
 </a>
 <b>parlour</b> — Deterministic TypeScript card-game engine. Blitz, Wild, P2P friend rooms, no backend.<br/>
-<a href="https://github.com/braedonsaunders/parlour"><img src="https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat&color=yellow" alt="Stars" /></a> <a href="https://parlour-liart.vercel.app"><img src="https://img.shields.io/badge/Play%20it%20live-→-black?style=flat" alt="Play it live" /></a>
+<a href="https://github.com/braedonsaunders/parlour"><img src="https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat&color=yellow" alt="Stars" /></a> <a href="https://parlour.cards"><img src="https://img.shields.io/badge/Play%20it%20live-→-black?style=flat" alt="Play it live" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/openstudio">
 <img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
 </a>
 <b>OpenStudio</b> — Collaborative music studio in the browser. Sub-30ms latency, 35+ effects, AI stems.<br/>
 <a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
