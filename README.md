@@ -56,7 +56,7 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/lucid">
-<img src="https://raw.githubusercontent.com/braedonsaunders/lucid/main/.github/assets/github-social-preview.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Lucid" />
+<img src="https://raw.githubusercontent.com/braedonsaunders/lucid/main/.github/assets/github-social-preview.png?v=162b44a" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Lucid" />
 </a>
 <b>Lucid</b> — Sharper browser video on Apple silicon. In-page upscale, no separate player.<br/>
 <a href="https://github.com/braedonsaunders/lucid"><img src="https://img.shields.io/github/stars/braedonsaunders/lucid?style=flat&color=yellow" alt="Stars" /></a>
