@@ -106,7 +106,10 @@
 - [**Flux Gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Financial analytics and AI advisor SuiteApp for NetSuite.
 - [**Flux Capture**](https://github.com/braedonsaunders/com.flux.capture) — NetSuite document capture SuiteApp.
 - [**VCF 4.0 FI parser**](https://github.com/braedonsaunders/vcf40-netsuite-fi-parser) — Visa Commercial Format 4.0 bank-file plug-in for NetSuite.
+
+### BB Plugins
+- [**Reclaim**](https://github.com/braedonsaunders/bb-plugin-reclaim) — See where disk went, browse it, and get it back. Full-volume index, pressure alerts, and guarded cleanup for build caches, dependencies, and Docker.
 - [**Ultragoal**](https://github.com/braedonsaunders/bb-plugin-ultragoal) — Codex-style durable Goals for Cursor, OpenCode, Claude Code, and Pi in BB.
-- [**Usage**](https://github.com/braedonsaunders/bb-plugin-usage) — BB plugin. Remaining plan quota, reset windows, and token burn across every provider.
-- [**Thread Provider Icons**](https://github.com/braedonsaunders/bb-plugin-thread-provider-icons) — BB plugin. Each thread's provider logo before its title in the sidebar.
-- [**Audio Preview**](https://github.com/braedonsaunders/bb-plugin-audio-preview) — BB plugin. Plays .m4a and other audio files in the file panel.
+- [**Usage**](https://github.com/braedonsaunders/bb-plugin-provider-usage) — Remaining plan quota, reset windows, and token burn across every provider.
+- [**Thread Provider Icons**](https://github.com/braedonsaunders/bb-plugin-thread-provider-icons) — Each thread's provider logo before its title in the sidebar.
+- [**Audio Preview**](https://github.com/braedonsaunders/bb-plugin-audio-preview) — Plays .m4a and other audio files in the file panel.
