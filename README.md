@@ -13,7 +13,6 @@
 <b>OpenBooks</b> — Open-source ERP on a PostgreSQL-enforced double-entry ledger. Self-hosted, AGPL.<br/>
 <a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a> <a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
 </td>
-</tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/codeflow">
 <img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="CodeFlow" />
