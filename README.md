@@ -7,12 +7,13 @@
 <table cellspacing="0" cellpadding="4">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/bunkhouse">
-<img src="https://raw.githubusercontent.com/braedonsaunders/bunkhouse/main/.github/assets/github-social-preview.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bunkhouse" />
+<a href="https://github.com/braedonsaunders/openbooks">
+<img src="https://github.com/braedonsaunders/openbooks/blob/main/web/public/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
 </a>
-<b>Bunkhouse</b> — Open-source AI employees for main-street business. Multitenant, company inbox, org chart.<br/>
-<a href="https://github.com/braedonsaunders/bunkhouse"><img src="https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=flat&color=yellow" alt="Stars" /></a>
+<b>OpenBooks</b> — Open-source ERP on a PostgreSQL-enforced double-entry ledger. Self-hosted, AGPL.<br/>
+<a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a> <a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
 </td>
+</tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/codeflow">
 <img src="https://raw.githubusercontent.com/braedonsaunders/codeflow/main/codeflow-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="CodeFlow" />
@@ -30,13 +31,12 @@
 <a href="https://github.com/braedonsaunders/homerun"><img src="https://img.shields.io/github/stars/braedonsaunders/homerun?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/openbooks">
-<img src="https://github.com/braedonsaunders/openbooks/blob/main/web/public/socialmedia.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenBooks" />
+<a href="https://github.com/braedonsaunders/bunkhouse">
+<img src="https://raw.githubusercontent.com/braedonsaunders/bunkhouse/main/.github/assets/github-social-preview.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Bunkhouse" />
 </a>
-<b>OpenBooks</b> — Open-source ERP on a PostgreSQL-enforced double-entry ledger. Self-hosted, AGPL.<br/>
-<a href="https://github.com/braedonsaunders/openbooks"><img src="https://img.shields.io/github/stars/braedonsaunders/openbooks?style=flat&color=yellow" alt="Stars" /></a> <a href="https://github.com/braedonsaunders/openbooks/blob/main/TRUST.md"><img src="https://img.shields.io/badge/TRUST.md-verify-0f766e?style=flat" alt="TRUST.md" /></a>
+<b>Bunkhouse</b> — Open-source AI employees for main-street business. Multitenant, company inbox, org chart.<br/>
+<a href="https://github.com/braedonsaunders/bunkhouse"><img src="https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/bidwright">
