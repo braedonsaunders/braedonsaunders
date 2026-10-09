@@ -100,6 +100,7 @@
 ---
 
 ### Other projects
+- [**Spoolyard**](https://github.com/braedonsaunders/spoolyard) — Piping isometrics and spool fabrication drawings. Cut lengths, weld maps, and BOMs; runs in the browser, on desktop, or inside BidWright.
 - [**Commandarr**](https://github.com/braedonsaunders/commandarr) — LLM agent for the media stack. Monitors and automates Plex and *arr.
 - [**Sloppy**](https://github.com/braedonsaunders/sloppy) — GitHub Action. Scores PRs 0–100, auto-fixes with Claude or Codex.
 - [**Flux Gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Financial analytics and AI advisor SuiteApp for NetSuite.
