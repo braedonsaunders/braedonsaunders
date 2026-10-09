@@ -36,6 +36,7 @@
 <b>Bunkhouse</b> — Open-source AI employees for main-street business. Multitenant, company inbox, org chart.<br/>
 <a href="https://github.com/braedonsaunders/bunkhouse"><img src="https://img.shields.io/github/stars/braedonsaunders/bunkhouse?style=flat&color=yellow" alt="Stars" /></a>
 </td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/bidwright">
@@ -54,21 +55,12 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/lucid">
-<img src="https://raw.githubusercontent.com/braedonsaunders/lucid/main/.github/assets/github-social-preview.png?v=cb79369" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Lucid" />
-</a>
-<b>Lucid</b> — Sharper browser video on Apple silicon. In-page upscale, no separate player.<br/>
-<a href="https://github.com/braedonsaunders/lucid"><img src="https://img.shields.io/github/stars/braedonsaunders/lucid?style=flat&color=yellow" alt="Stars" /></a>
-</td>
-<td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/appkit">
 <img src="https://raw.githubusercontent.com/braedonsaunders/appkit/main/.github/assets/appkit-social-preview.jpg" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="AppKit" />
 </a>
 <b>AppKit</b> — Design system, tenancy, forms, jobs, workflows. Shared foundation for the other apps.<br/>
 <a href="https://github.com/braedonsaunders/appkit"><img src="https://img.shields.io/github/stars/braedonsaunders/appkit?style=flat&color=yellow" alt="Stars" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/voidstrike">
 <img src="https://raw.githubusercontent.com/braedonsaunders/voidstrike/main/docs/voidstrike-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Voidstrike" />
@@ -76,6 +68,8 @@
 <b>Voidstrike</b> — Browser-native multiplayer RTS. WebGPU, WebRTC, deterministic lockstep.<br/>
 <a href="https://github.com/braedonsaunders/voidstrike"><img src="https://img.shields.io/github/stars/braedonsaunders/voidstrike?style=flat&color=yellow" alt="Stars" /></a> <a href="https://voidstrike-five.vercel.app"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/parlour">
 <img src="https://raw.githubusercontent.com/braedonsaunders/parlour/main/docs/parlour-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="parlour" />
@@ -83,16 +77,12 @@
 <b>parlour</b> — Deterministic TypeScript card-game engine. Blitz, Wild, P2P friend rooms, no backend.<br/>
 <a href="https://github.com/braedonsaunders/parlour"><img src="https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat&color=yellow" alt="Stars" /></a> <a href="https://parlour.cards"><img src="https://img.shields.io/badge/Play%20it%20live-→-black?style=flat" alt="Play it live" /></a>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/braedonsaunders/openstudio">
 <img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
 </a>
 <b>OpenStudio</b> — Collaborative music studio in the browser. Sub-30ms latency, 35+ effects, AI stems.<br/>
 <a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -101,6 +91,7 @@
 
 ### Other projects
 - [**Spoolyard**](https://github.com/braedonsaunders/spoolyard) — Piping isometrics and spool fabrication drawings. Cut lengths, weld maps, and BOMs; runs in the browser, on desktop, or inside BidWright.
+- [**Lucid**](https://github.com/braedonsaunders/lucid) — Sharper browser video on Apple silicon. Real-time on-device AI upscaling in the page's own player, for Chrome and Edge.
 - [**Commandarr**](https://github.com/braedonsaunders/commandarr) — LLM agent for the media stack. Monitors and automates Plex and *arr.
 - [**Sloppy**](https://github.com/braedonsaunders/sloppy) — GitHub Action. Scores PRs 0–100, auto-fixes with Claude or Codex.
 - [**Flux Gantry**](https://github.com/braedonsaunders/com.flux.gantry) — Financial analytics and AI advisor SuiteApp for NetSuite.
