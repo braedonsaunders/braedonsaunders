@@ -103,5 +103,4 @@
 - [**Ballast**](https://github.com/braedonsaunders/bb-plugin-ballast) — See where RAM went and which thread took it. Pressure graded on headroom and paging rate, with a guarded ladder that sheds load before the machine starts swapping.
 - [**Ultragoal**](https://github.com/braedonsaunders/bb-plugin-ultragoal) — Codex-style durable Goals for Cursor, OpenCode, Claude Code, and Pi in BB.
 - [**Usage**](https://github.com/braedonsaunders/bb-plugin-provider-usage) — Remaining plan quota, reset windows, and token burn across every provider.
-- [**Thread Provider Icons**](https://github.com/braedonsaunders/bb-plugin-thread-provider-icons) — Each thread's provider logo before its title in the sidebar.
 - [**Audio Preview**](https://github.com/braedonsaunders/bb-plugin-audio-preview) — Plays .m4a and other audio files in the file panel.
