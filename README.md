@@ -85,20 +85,12 @@
 <a href="https://github.com/braedonsaunders/parlour"><img src="https://img.shields.io/github/stars/braedonsaunders/parlour?style=flat&color=yellow" alt="Stars" /></a> <a href="https://parlour.cards"><img src="https://img.shields.io/badge/Play%20it%20live-→-black?style=flat" alt="Play it live" /></a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/braedonsaunders/openstudio">
-<img src="https://raw.githubusercontent.com/braedonsaunders/openstudio/main/readme.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="OpenStudio" />
-</a>
-<b>OpenStudio</b> — Collaborative music studio in the browser. Sub-30ms latency, 35+ effects, AI stems.<br/>
-<a href="https://github.com/braedonsaunders/openstudio"><img src="https://img.shields.io/github/stars/braedonsaunders/openstudio?style=flat&color=yellow" alt="Stars" /></a> <a href="https://openstudio.cafe"><img src="https://img.shields.io/badge/Try%20it%20live-→-black?style=flat" alt="Try it live" /></a>
-</td>
-</tr>
 </table>
 
 ---
 
 ### Other projects
+- [**OpenStudio**](https://github.com/braedonsaunders/openstudio) — Collaborative music studio in the browser. Sub-30ms latency, 35+ effects, AI stems. [Try it live](https://openstudio.cafe).
 - [**Spoolyard**](https://github.com/braedonsaunders/spoolyard) — Piping isometrics and spool fabrication drawings. Cut lengths, weld maps, and BOMs; runs in the browser, on desktop, or inside BidWright.
 - [**Lucid**](https://github.com/braedonsaunders/lucid) — Sharper browser video on Apple silicon. Real-time on-device AI upscaling in the page's own player, for Chrome and Edge.
 - [**Commandarr**](https://github.com/braedonsaunders/commandarr) — LLM agent for the media stack. Monitors and automates Plex and *arr.
