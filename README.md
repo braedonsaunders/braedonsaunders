@@ -17,7 +17,7 @@
 <a href="https://github.com/braedonsaunders/ether">
 <img src="https://raw.githubusercontent.com/braedonsaunders/ether/main/.github/assets/ether-social.png" height="220" width="100%" style="border-radius:12px;object-fit:cover;" alt="Ether" />
 </a>
-<b>Ether</b> — Self-hosted media server for Plex apps. On-demand Usenet and debrid streaming, personalized discovery, hardware transcoding.<br/>
+<b>Ether</b> — A media server that holds no media. One install serves Plex, Jellyfin, Emby, Infuse, Swiftfin, Silo and Stremio apps, streaming the TMDB catalogue on demand from your debrid accounts or Usenet.<br/>
 <a href="https://github.com/braedonsaunders/ether"><img src="https://img.shields.io/github/stars/braedonsaunders/ether?style=flat&color=yellow" alt="Stars" /></a>
 </td>
 </tr>
